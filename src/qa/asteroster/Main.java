@@ -7,4 +7,7 @@ public class Main {
         System.out.println("this is another line in my code");
         System.out.println("slow branch");
     }
+    public static void another() {
+        System.out.println("anoter method");
+    }
 }
